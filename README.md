@@ -67,7 +67,7 @@ VT_API_KEY = "PUT_YOUR_VT_API_KEY_HERE"
 Run the analyzer against an email file:
 
 ```bash
-python3 smells_nice.py -f suspicious_email.eml
+python3 smells_good.py -f sample-1008.eml.eml
 ```
 
 > 🔒 **Always analyze emails inside a Virtual Machine (VM).**
